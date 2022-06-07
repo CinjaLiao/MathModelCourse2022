@@ -1,0 +1,15 @@
+(sublime 配置 python) https://zhuanlan.zhihu.com/p/115084926
+(ipython 教程) https://blog.csdn.net/qq_27825451/article/details/84320859
+(解决pip的版本冲突问题) https://blog.csdn.net/weixin_42533541/article/details/85275035
+(sublime python交互环境配置) https://blog.csdn.net/Eric_Blog_CSDN/article/details/79063585
+《python从入门到实践》 第12章pygame项目
+(背景流星动画)https://www.bilibili.com/read/cv11501557/
+(draw函数的使用)https://www.cnblogs.com/leonyoung/archive/2012/07/01/2572205.html
+(半透明图形绘制)http://www.voidcn.com/article/p-pvneetyc-btb.html
+(解决时钟问题)https://blog.csdn.net/KaiSarH/article/details/103184389
+(文本输入框)https://www.coder.work/article/354064
+(鼠标拖拽效果)https://www.cnblogs.com/ssxsy/p/9212291.html
+(pygame输入框模块)https://github.com/Nearoo/pygame-text-input
+(pygame按键对应函数)https://www.jianshu.com/p/ffefa2af6d47
+(时间与帧率click)https://eyehere.net/2011/python-pygame-novice-professional-8/
+(解决按键不灵敏)https://www.zhihu.com/question/27776700
